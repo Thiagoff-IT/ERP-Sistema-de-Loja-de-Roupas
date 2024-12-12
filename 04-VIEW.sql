@@ -16,7 +16,3 @@ GROUP BY f.nome;
 
 
 
-
-
-
-
